@@ -1,0 +1,18 @@
+¡Necesitas cambiar estas configuraciones de Visual Studio Code!
+https://www.youtube.com/watch?v=uyEUVgNMvGI
+
+preferercias
+cursor blinking
+
+paginas de javascript 
+https://www.javascripttutorial.net/javascript-comparison-operators/
+
+true en javascript
+https://developer.mozilla.org/en-US/docs/Glossary/Truthy
+
+negacion en javascript
+https://developer.mozilla.org/en-US/docs/Glossary/Falsy
+
+declaraciones condicionales
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
+
