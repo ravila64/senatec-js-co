@@ -43,10 +43,29 @@ console.log(house2); // {rooms: 4, color: 'pink', priceUSD: 12345}
 // other example
 var car = {};
 car.color = "red";
-car["color"] = "green";
+car["color"] = "green"; //crea una porpiedad en car, llamada color
 car["speed"] = 200;
-car.speed = 100;
+car.speed = 100; // modifica la propiedad speed
 console.log(car); // {color: "green", speed: 100}
 //
+car["number of doors"] = 4;
+console.log(car); // {color: 'green', speed: 100, number of doors: 5}
+//
+car["2022"] = 1901;
+console.log(car); // {2022: 1901, color: 'green', speed: 100, number of doors: 5}
+//
+// arrays
+var arrOfKeys = ['speed', 'altitude', 'color'];
+var drone = {
+    speed: 100,
+    altitude: 200,
+    color: "red"
+}
+console.log("object drone");
+for (var i = 0; i < arrOfKeys.length; i++) {
+    console.log(arrOfKeys[i]," = ",drone[arrOfKeys[i]])
+}
+//
+
 
 
