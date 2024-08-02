@@ -49,9 +49,9 @@ var baldEagle = new Eagle();
 var kingPenguin = new Penguin();
 console.log("Imprime class bird");
 bird.useWings();
-console.log("imprime class Eagle ");
+console.log("Imprime class Eagle ");
 baldEagle.useWings(); // "Flying! Barely flapping!"
-console.log("imprime class Penguin ");
+console.log("Imprime class Penguin ");
 kingPenguin.useWings(); // "Diving!"
 //
 
